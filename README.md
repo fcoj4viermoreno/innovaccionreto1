@@ -53,4 +53,10 @@ Comprendemos perfectamente que ayuda pero que es lo que nos Ofreceria Azure para
 
 *Software como servicio (SaaS):* En este modelo de servicio en la nube, el proveedor de servicios en la nube administra todos los aspectos del entorno de la aplicación, como las máquinas virtuales, los recursos de red, el almacenamiento de datos y las aplicaciones.(Analogia: casa pintada y amueblada)
 
+**Tipos de Nubes**
 
+*Nube Publica:* Los servicios se ofrecen a través de la red Internet pública y están disponibles para cualquiera que quiera comprarlos. Los recursos de nube como los servidores y el almacenamiento son propiedad de un proveedor de servicios en la nube de terceros, que los explota y distribuye a través de Internet.
+
+*Nube Privada:* Los recursos informáticos son de uso exclusivo de los usuarios de una empresa u organización. Una nube privada puede estar ubicada físicamente en el centro de datos local de la organización. También la puede hospedar un proveedor de servicios de terceros.
+
+*Nube Híbrida:* Este entorno informático combina una nube pública y una nube privada, lo que permite compartir datos y aplicaciones entre ellas.
