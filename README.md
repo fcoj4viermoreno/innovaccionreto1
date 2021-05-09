@@ -1,7 +1,7 @@
 # Reto Master
 ## CONCEPTOS APRENDIDOS EN INNOVACCION
 ---
-Durante estas clases que hemos visto conceptos de [introduccion a la nube]() y [temas previos]():
+Durante estas clases que hemos visto conceptos de [introduccion a la nube](https://github.com/DiegoGarciaH/innovaccionreto1/blob/main/README.md#previos) y [temas previos]():
 
 
 ### Previos
