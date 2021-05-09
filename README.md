@@ -7,7 +7,8 @@ Durante estas clases que hemos visto conceptos de [introduccion a la nube]() y [
 ### Previos
 Los conceptos previos son el hardware y el software del funcionamiento de todos los dispositivos tecnologicoa antes de llegar a la nube como lo es y como funciona Azure, AWS, Google Cloud.
 
-!["ilustracion"](Workspace/git-images/0.jpg "Comparativa")
+![Hardware](https://user-images.githubusercontent.com/83611426/117588611-0228db80-b0ea-11eb-81df-169c5bc6ed21.jpg)
+
 
 Se presentan los siguientes conceptos
 
